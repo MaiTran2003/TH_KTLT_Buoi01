@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\KTLT\TH_KTLT\TH_KTLT_Buoi01\Source.cpp(2,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\KTLT\TH_KTLT\TH_KTLT_Buoi01\Source.cpp(4,2): error C3861: 'printf': identifier not found
+E:\KTLT\TH_KTLT\TH_KTLT_Buoi01\Source.cpp(5,2): error C3861: 'scanf': identifier not found
+E:\KTLT\TH_KTLT\TH_KTLT_Buoi01\Source.cpp(15,3): error C3861: 'printf': identifier not found
+E:\KTLT\TH_KTLT\TH_KTLT_Buoi01\Source.cpp(17,2): error C3861: 'getch': identifier not found
